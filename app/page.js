@@ -156,3 +156,6 @@ export default function Home() {
     </Box>
   );
 }
+
+
+// tomorow, u need to add update functionality alongwith image upload if possible and wrap up this project
